@@ -35,3 +35,5 @@ so
 
 
 UPDATE 1: It has come to my atention that a Virus Tottal Scan has come back with 2 flags both where for trojans that are not in this tool, I have researched this issue and found that it is got todo with the browser estenshions I Have installed that are used for WebPage modification. 
+
+UPDATE 1.5: Browser is now 100% portable, so it can be put on a usb drive and carried with you where ever it is needed, No need to install any files or programs
